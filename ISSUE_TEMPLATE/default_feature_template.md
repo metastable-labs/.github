@@ -1,8 +1,8 @@
 ---
-name: "Issue Report"
-about: "Create an issue in this project"
-title: "[ISSUE] "
-labels: issue
+name: "Feature Report"
+about: "Create a feature request in this project"
+title: "[FEATURE] "
+labels: feature
 assignees: ""
 ---
 
