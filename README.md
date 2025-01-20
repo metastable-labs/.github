@@ -1,6 +1,6 @@
 # Organization-Wide GitHub Configuration
 
-This repository houses default configuration files for the **\{Metastable Labs\}** GitHub organization. Any repository within our organization that **does not** have its own custom configuration will inherit these defaults.
+This repository houses default configuration files for the **Metastable Labs** GitHub organization. Any repository within our organization that **does not** have its own custom configuration will inherit these defaults.
 
 ## What’s in Here?
 
